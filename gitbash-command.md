@@ -1,5 +1,4 @@
 # Before Learning git you should know this basic commands
----
 
 ## Git Bash / Linux Terminal Commands
 
@@ -109,5 +108,3 @@ rm filename
 rm -r folder_name
 # delete folder and everything inside it
 ```
-
----
